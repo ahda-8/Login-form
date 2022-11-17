@@ -1,15 +1,21 @@
-algoritma
+algoritma :
 
-masukan nama lengkap, pastikan nama lengkap tidak kosong dengan maksimal 20 karakter
+1. masukan nama lengkap
 
-masukan email, email tidak boleh kosong dan harus menggunakan karakter("@" dan ".")
+2. masukan email
 
-masukan alamat, pastikan alamat tidak kosong dan menggunakan paling banyak 100 karakter
+3. masukan alamat
 
-setelah nama lengkap, email, alamat terisi lalu tekan tombol daftar
+4. setelah nama lengkap, email, alamat terisi lalu tekan tombol daftar
 
-apabila nama lengkap, email, dan alamat salah, tampilkan informasi error
+5. apabila nama lengkap, email, dan alamat salah, tampilkan informasi error
 
-apabila nama lengkap, email, dan alamat benar, tampilkan informasi sukses
+6. apabila nama lengkap, email, dan alamat benar, tampilkan informasi sukses
+
+7. pastikan nama lengkap nama lengkap tidak boleh kosong dan kurang dari sama dengan 20 karakter
+
+8. pastikan email tidak boleh kosong dan harus menyertakan karakter ("@" dan ".")
+ 
+10. pastikan alamat tidak boleh kosong dan kurang dari sama dengan 100 karakter
 
 selesai
